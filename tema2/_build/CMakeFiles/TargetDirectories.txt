@@ -1,0 +1,3 @@
+/home/tudy/Desktop/School/Year4/S1/PAOO/tema2/_build/CMakeFiles/Carculator.dir
+/home/tudy/Desktop/School/Year4/S1/PAOO/tema2/_build/CMakeFiles/edit_cache.dir
+/home/tudy/Desktop/School/Year4/S1/PAOO/tema2/_build/CMakeFiles/rebuild_cache.dir
