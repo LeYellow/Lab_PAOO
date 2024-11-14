@@ -1,8 +1,20 @@
 Full source and build files.
 
---Build and run--
+**Build in target folder**
+```
 mkdir build 
 cd build 
 cmake.. 
-make 
+make
+``` 
+
+**Run with:**
+Tema 1:
+```
 ./Dealership
+```
+
+Tema 2:
+```
+./Carculator
+```
