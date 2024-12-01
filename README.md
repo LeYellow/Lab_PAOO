@@ -18,3 +18,8 @@ Tema 2:
 ```
 ./Carculator
 ```
+
+Tema 3:
+```
+./Dealership
+```
