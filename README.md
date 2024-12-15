@@ -23,3 +23,8 @@ Tema 3:
 ```
 ./Dealership
 ```
+
+Tema 4:
+```
+./Tema4
+```
